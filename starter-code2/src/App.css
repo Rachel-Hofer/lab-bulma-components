@@ -1,0 +1,70 @@
+.navbar {
+  height: 10vh;
+}
+
+.allOfHeaderText {
+  display: flex;
+  margin-top: 1%;
+  padding-top: .5%;
+  padding-bottom: .5%;
+  align-items: center;
+  background-color: #ededed;
+}
+
+.navbar-start {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-item {
+margin-left: 15%;
+}
+
+.buttonsDiv {
+  display: flex;
+  margin-left: 360%;
+}
+
+.btn {
+  border-radius: 5%;
+  padding-top: 3.5%;
+  padding-bottom: 3.5%;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  width: 130px;
+}
+
+.buttonOne {
+  background-color: #00c4a7;
+}
+
+.buttonTwo {
+background-color: #55acee;
+margin-left: 4%;
+}
+
+a:link {
+  text-decoration: none;
+  color: gray;
+}
+
+a:visited {
+  text-decoration: none;
+  color: gray;
+}
+
+.field {
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  width: 125%;
+}
+
+.label {
+  font-weight: bold;
+  margin-right: 2px;
+}
